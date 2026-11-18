@@ -1,0 +1,508 @@
+﻿parameter,value,unit,phase,day,date
+25(OH)D,62.3,nmol/L,L,180,2024-09-04
+25(OH)D,62,nmol/L,L,60,2025-01-02
+25(OH)D,59.1,nmol/L,FD,15,2025-03-18
+25(OH)D,58.0,nmol/L,FD,30,2025-04-02
+25(OH)D,55,nmol/L,FD,60,2025-05-02
+25(OH)D,52,nmol/L,FD,120,2025-07-01
+25(OH)D,54,nmol/L,FD,170,2025-08-20
+25(OH)D,55.9,nmol/L,R,0,2025-08-30
+25(OH)D,56.4,nmol/L,R,3,2025-09-02
+25(OH)D,58.0,nmol/L,R,30,2025-09-29
+25(OH)D,61.7,nmol/L,R,180,2026-02-26
+25(OH)D,61.6,nmol/L,R,365,2026-08-30
+Absolute lymphocyte count (ALC),1.95,×10³/µL,L,180,2024-09-04
+Absolute lymphocyte count (ALC),2.08,×10³/µL,L,60,2025-01-02
+Absolute lymphocyte count (ALC),2.04,×10³/µL,FD,15,2025-03-18
+Absolute lymphocyte count (ALC),2.03,×10³/µL,FD,30,2025-04-02
+Absolute lymphocyte count (ALC),2.06,×10³/µL,FD,60,2025-05-02
+Absolute lymphocyte count (ALC),2.02,×10³/µL,FD,120,2025-07-01
+Absolute lymphocyte count (ALC),2.0,×10³/µL,FD,170,2025-08-20
+Absolute lymphocyte count (ALC),1.69,×10³/µL,R,0,2025-08-30
+Absolute lymphocyte count (ALC),1.92,×10³/µL,R,3,2025-09-02
+Absolute lymphocyte count (ALC),1.95,×10³/µL,R,30,2025-09-29
+Absolute neutrophil count (ANC),3.42,×10³/µL,L,180,2024-09-04
+Absolute neutrophil count (ANC),3.47,×10³/µL,L,60,2025-01-02
+Absolute neutrophil count (ANC),3.94,×10³/µL,FD,15,2025-03-18
+Absolute neutrophil count (ANC),4.13,×10³/µL,FD,30,2025-04-02
+Absolute neutrophil count (ANC),4.26,×10³/µL,FD,60,2025-05-02
+Absolute neutrophil count (ANC),4.25,×10³/µL,FD,120,2025-07-01
+Absolute neutrophil count (ANC),4.0,×10³/µL,FD,170,2025-08-20
+Absolute neutrophil count (ANC),6.32,×10³/µL,R,0,2025-08-30
+Absolute neutrophil count (ANC),4.66,×10³/µL,R,3,2025-09-02
+Absolute neutrophil count (ANC),3.59,×10³/µL,R,30,2025-09-29
+BAEP/ABR I-V interpeak,3.988,ms,L,180,2024-09-04
+BAEP/ABR I-V interpeak,4.0,ms,L,60,2025-01-02
+BAEP/ABR I-V interpeak,3.958,ms,R,3,2025-09-02
+BAEP/ABR I-V interpeak,3.961,ms,R,30,2025-09-29
+Body weight,79.4,kg,L,180,2024-09-04
+Body weight,79,kg,L,60,2025-01-02
+Body weight,77.2,kg,R,0,2025-08-30
+Body weight,78.5,kg,R,3,2025-09-02
+Body weight,78.4,kg,R,30,2025-09-29
+Body weight,79.3,kg,R,180,2026-02-26
+Body weight,79.3,kg,R,365,2026-08-30
+Carotid IMT (Doppler),0.62,mm,L,180,2024-09-04
+Carotid IMT (Doppler),0.62,mm,L,60,2025-01-02
+Carotid IMT (Doppler),0.62,mm,R,0,2025-08-30
+Carotid IMT (Doppler),0.615,mm,R,30,2025-09-29
+Carotid IMT (Doppler),0.615,mm,R,365,2026-08-30
+Carotid distensibility coefficient,24.0,10⁻³/kPa,L,180,2024-09-04
+Carotid distensibility coefficient,24,10⁻³/kPa,L,60,2025-01-02
+Carotid distensibility coefficient,18.5,10⁻³/kPa,R,0,2025-08-30
+Carotid distensibility coefficient,19.2,10⁻³/kPa,R,3,2025-09-02
+Carotid distensibility coefficient,19.9,10⁻³/kPa,R,30,2025-09-29
+Carotid distensibility coefficient,21,10⁻³/kPa,R,180,2026-02-26
+Carotid distensibility coefficient,22.5,10⁻³/kPa,R,365,2026-08-30
+Cognition PVT lapses,2,count,L,180,2024-09-04
+Cognition PVT lapses,2,count,L,60,2025-01-02
+Cognition PVT lapses,3,count,FD,30,2025-04-02
+Cognition PVT lapses,4,count,FD,90,2025-06-01
+Cognition PVT lapses,5,count,FD,150,2025-07-31
+Cognition PVT lapses,3,count,R,3,2025-09-02
+Cognition PVT lapses,2,count,R,30,2025-09-29
+Daily dose rate,0.46,mSv/day,FD,90,2025-06-01
+Diastolic blood pressure,75.6,mmHg,L,180,2024-09-04
+Diastolic blood pressure,76,mmHg,L,60,2025-01-02
+Diastolic blood pressure,75.6,mmHg,FD,30,2025-04-02
+Diastolic blood pressure,75.5,mmHg,FD,90,2025-06-01
+Diastolic blood pressure,75.8,mmHg,FD,150,2025-07-31
+Diastolic blood pressure,75.3,mmHg,R,0,2025-08-30
+Diastolic blood pressure,75.2,mmHg,R,3,2025-09-02
+Diastolic blood pressure,75.5,mmHg,R,30,2025-09-29
+Diastolic blood pressure,75.4,mmHg,R,180,2026-02-26
+Diastolic blood pressure,75.8,mmHg,R,365,2026-08-30
+Distal tibia F.Load (HR-pQCT),10.4,kN,L,180,2024-09-04
+Distal tibia F.Load (HR-pQCT),10.4,kN,L,60,2025-01-02
+Distal tibia F.Load (HR-pQCT),9.823,kN,R,0,2025-08-30
+Distal tibia F.Load (HR-pQCT),10.0,kN,R,180,2026-02-26
+Distal tibia F.Load (HR-pQCT),10.1,kN,R,365,2026-08-30
+Distal tibia Tt.vBMD (HR-pQCT),333.7,mgHA/cm³,L,180,2024-09-04
+Distal tibia Tt.vBMD (HR-pQCT),335,mgHA/cm³,L,60,2025-01-02
+Distal tibia Tt.vBMD (HR-pQCT),322.1,mgHA/cm³,R,0,2025-08-30
+Distal tibia Tt.vBMD (HR-pQCT),326.1,mgHA/cm³,R,180,2026-02-26
+Distal tibia Tt.vBMD (HR-pQCT),328.4,mgHA/cm³,R,365,2026-08-30
+Dynamic posturography SOT5 score,71.0,points,L,180,2024-09-04
+Dynamic posturography SOT5 score,71,points,L,60,2025-01-02
+Dynamic posturography SOT5 score,51.6,points,R,0,2025-08-30
+Dynamic posturography SOT5 score,59.6,points,R,3,2025-09-02
+Dynamic posturography SOT5 score,71.0,points,R,30,2025-09-29
+Dynamic posturography SOT5 score,71.4,points,R,180,2026-02-26
+Dynamic posturography SOT5 score,70.4,points,R,365,2026-08-30
+EEG posterior dominant rhythm,10.2,Hz,L,180,2024-09-04
+EEG posterior dominant rhythm,10.2,Hz,L,60,2025-01-02
+EEG posterior dominant rhythm,10.1,Hz,R,3,2025-09-02
+EEG posterior dominant rhythm,10.4,Hz,R,30,2025-09-29
+EMG spontaneous activity score (0-4),0.0,points,L,180,2024-09-04
+EMG spontaneous activity score (0-4),0,points,L,60,2025-01-02
+EMG spontaneous activity score (0-4),0.0,points,R,3,2025-09-02
+EMG spontaneous activity score (0-4),0.0,points,R,30,2025-09-29
+ENG/VNG caloric asymmetry,9.017,%,L,180,2024-09-04
+ENG/VNG caloric asymmetry,9,%,L,60,2025-01-02
+ENG/VNG caloric asymmetry,16,%,R,3,2025-09-02
+ENG/VNG caloric asymmetry,10,%,R,30,2025-09-29
+ENG/VNG caloric asymmetry,9.018,%,R,180,2026-02-26
+Fasting glucose,87.9,mg/dL,L,180,2024-09-04
+Fasting glucose,88,mg/dL,L,60,2025-01-02
+Fasting glucose,88.8,mg/dL,R,0,2025-08-30
+Fasting glucose,88.9,mg/dL,R,30,2025-09-29
+Fasting glucose,88.8,mg/dL,R,365,2026-08-30
+Femoral neck aBMD (DXA),0.978,g/cm²,L,180,2024-09-04
+Femoral neck aBMD (DXA),0.98,g/cm²,L,60,2025-01-02
+Femoral neck aBMD (DXA),0.956,g/cm²,R,0,2025-08-30
+Femoral neck aBMD (DXA),0.967,g/cm²,R,180,2026-02-26
+Femoral neck aBMD (DXA),0.969,g/cm²,R,365,2026-08-30
+HOMA-IR,1.096,,L,180,2024-09-04
+HOMA-IR,1.1,,L,60,2025-01-02
+HOMA-IR,1.9,,R,0,2025-08-30
+HOMA-IR,1.514,,R,3,2025-09-02
+HOMA-IR,1.331,,R,30,2025-09-29
+HOMA-IR,1.3,,R,180,2026-02-26
+HOMA-IR,1.15,,R,365,2026-08-30
+HbA1c,5.291,%,L,180,2024-09-04
+HbA1c,5.3,%,L,60,2025-01-02
+HbA1c,5.27,%,R,0,2025-08-30
+HbA1c,5.271,%,R,30,2025-09-29
+HbA1c,5.268,%,R,365,2026-08-30
+Hip trabecular vBMD (QCT),185.3,mg/cm³,L,180,2024-09-04
+Hip trabecular vBMD (QCT),185,mg/cm³,L,60,2025-01-02
+Hip trabecular vBMD (QCT),166.2,mg/cm³,R,0,2025-08-30
+Hip trabecular vBMD (QCT),172.4,mg/cm³,R,180,2026-02-26
+Hip trabecular vBMD (QCT),176.6,mg/cm³,R,365,2026-08-30
+Intraocular pressure,15.0,mmHg,L,180,2024-09-04
+Intraocular pressure,15,mmHg,L,60,2025-01-02
+Intraocular pressure,15.0,mmHg,FD,50,2025-04-22
+Intraocular pressure,15.1,mmHg,FD,150,2025-07-31
+Intraocular pressure,15.1,mmHg,R,0,2025-08-30
+Intraocular pressure,15.1,mmHg,R,3,2025-09-02
+Intraocular pressure,15.1,mmHg,R,30,2025-09-29
+Intraocular pressure,14.9,mmHg,R,180,2026-02-26
+Intraocular pressure,15.0,mmHg,R,365,2026-08-30
+Knee extensor torque 60°/s,234.8,Nm,L,180,2024-09-04
+Knee extensor torque 60°/s,236,Nm,L,60,2025-01-02
+Knee extensor torque 60°/s,220.2,Nm,R,0,2025-08-30
+Knee extensor torque 60°/s,214,Nm,R,3,2025-09-02
+Knee extensor torque 60°/s,229,Nm,R,30,2025-09-29
+Knee extensor torque 60°/s,235,Nm,R,180,2026-02-26
+Knee extensor torque 60°/s,237.3,Nm,R,365,2026-08-30
+L1-L4 aBMD (DXA),1.114,g/cm²,L,180,2024-09-04
+L1-L4 aBMD (DXA),1.12,g/cm²,L,60,2025-01-02
+L1-L4 aBMD (DXA),1.095,g/cm²,R,0,2025-08-30
+L1-L4 aBMD (DXA),1.102,g/cm²,R,180,2026-02-26
+L1-L4 aBMD (DXA),1.108,g/cm²,R,365,2026-08-30
+"LBNP tolerance (presyncope threshold, absolute)",45.0,mmHg,L,180,2024-09-04
+"LBNP tolerance (presyncope threshold, absolute)",45,mmHg,L,60,2025-01-02
+"LBNP tolerance (presyncope threshold, absolute)",45.3,mmHg,R,0,2025-08-30
+"LBNP tolerance (presyncope threshold, absolute)",30,mmHg,R,3,2025-09-02
+"LBNP tolerance (presyncope threshold, absolute)",42,mmHg,R,30,2025-09-29
+"LBNP tolerance (presyncope threshold, absolute)",44.8,mmHg,R,180,2026-02-26
+"LBNP tolerance (presyncope threshold, absolute)",44.8,mmHg,R,365,2026-08-30
+LV mass index (echo),81.9,g/m²,L,180,2024-09-04
+LV mass index (echo),82,g/m²,L,60,2025-01-02
+LV mass index (echo),78.9,g/m²,R,0,2025-08-30
+LV mass index (echo),82.4,g/m²,R,30,2025-09-29
+LV mass index (echo),82.8,g/m²,R,365,2026-08-30
+LVEF (echo),60.7,%,L,180,2024-09-04
+LVEF (echo),61,%,L,60,2025-01-02
+LVEF (echo),60.2,%,R,0,2025-08-30
+LVEF (echo),60.1,%,R,3,2025-09-02
+LVEF (echo),60.3,%,R,30,2025-09-29
+LVEF (echo),60.7,%,R,180,2026-02-26
+LVEF (echo),60.8,%,R,365,2026-08-30
+Lateral ventricle volume (MRI),21.0,mL,L,180,2024-09-04
+Lateral ventricle volume (MRI),21,mL,L,60,2025-01-02
+Lateral ventricle volume (MRI),25.0,mL,R,3,2025-09-02
+Lateral ventricle volume (MRI),23.2,mL,R,180,2026-02-26
+Lateral ventricle volume (MRI),22.4,mL,R,365,2026-08-30
+Leg lean mass (DXA),19.3,kg,L,180,2024-09-04
+Leg lean mass (DXA),19.4,kg,L,60,2025-01-02
+Leg lean mass (DXA),19.3,kg,R,0,2025-08-30
+Leg lean mass (DXA),19.3,kg,R,180,2026-02-26
+Leg lean mass (DXA),19.4,kg,R,365,2026-08-30
+Lymphocyte percentage,32,%,L,180,2024-09-04
+Lymphocyte percentage,33,%,L,60,2025-01-02
+Lymphocyte percentage,30,%,FD,15,2025-03-18
+Lymphocyte percentage,29,%,FD,30,2025-04-02
+Lymphocyte percentage,29,%,FD,60,2025-05-02
+Lymphocyte percentage,28,%,FD,120,2025-07-01
+Lymphocyte percentage,29,%,FD,170,2025-08-20
+Lymphocyte percentage,19,%,R,0,2025-08-30
+Lymphocyte percentage,26,%,R,3,2025-09-02
+Lymphocyte percentage,31,%,R,30,2025-09-29
+MEG alpha peak frequency,10.1,Hz,L,180,2024-09-04
+MEG alpha peak frequency,10.1,Hz,L,60,2025-01-02
+MEG alpha peak frequency,10.3,Hz,R,3,2025-09-02
+MEG alpha peak frequency,10.1,Hz,R,30,2025-09-29
+Mission effective dose (dosimeter),82.8,mSv,R,0,2025-08-30
+Morning cortisol,13.0,µg/dL,L,180,2024-09-04
+Morning cortisol,13,µg/dL,L,60,2025-01-02
+Morning cortisol,13.0,µg/dL,R,0,2025-08-30
+Morning cortisol,12.9,µg/dL,R,30,2025-09-29
+Morning cortisol,12.9,µg/dL,R,365,2026-08-30
+NASA-TLX workload (0-100),45,points,L,180,2024-09-04
+NASA-TLX workload (0-100),48,points,L,60,2025-01-02
+NASA-TLX workload (0-100),62,points,FD,30,2025-04-02
+NASA-TLX workload (0-100),58,points,FD,90,2025-06-01
+NASA-TLX workload (0-100),66,points,FD,150,2025-07-31
+NASA-TLX workload (0-100),44,points,R,30,2025-09-29
+NCS sural sensory amplitude,16.1,µV,L,180,2024-09-04
+NCS sural sensory amplitude,16,µV,L,60,2025-01-02
+NCS sural sensory amplitude,15.9,µV,R,3,2025-09-02
+NCS sural sensory amplitude,16.1,µV,R,30,2025-09-29
+NCS/NCV peroneal motor conduction velocity,49.0,m/s,L,180,2024-09-04
+NCS/NCV peroneal motor conduction velocity,49,m/s,L,60,2025-01-02
+NCS/NCV peroneal motor conduction velocity,49.6,m/s,R,3,2025-09-02
+NCS/NCV peroneal motor conduction velocity,49.6,m/s,R,30,2025-09-29
+Neutrophil percentage,56,%,L,180,2024-09-04
+Neutrophil percentage,55,%,L,60,2025-01-02
+Neutrophil percentage,58,%,FD,15,2025-03-18
+Neutrophil percentage,59,%,FD,30,2025-04-02
+Neutrophil percentage,60,%,FD,60,2025-05-02
+Neutrophil percentage,59,%,FD,120,2025-07-01
+Neutrophil percentage,58,%,FD,170,2025-08-20
+Neutrophil percentage,71,%,R,0,2025-08-30
+Neutrophil percentage,63,%,R,3,2025-09-02
+Neutrophil percentage,57,%,R,30,2025-09-29
+OCT peripapillary RNFL/TRT,97.0,µm,L,180,2024-09-04
+OCT peripapillary RNFL/TRT,97,µm,L,60,2025-01-02
+OCT peripapillary RNFL/TRT,103.4,µm,FD,50,2025-04-22
+OCT peripapillary RNFL/TRT,111.6,µm,FD,150,2025-07-31
+OCT peripapillary RNFL/TRT,112.0,µm,R,0,2025-08-30
+OCT peripapillary RNFL/TRT,110.8,µm,R,3,2025-09-02
+OCT peripapillary RNFL/TRT,110.0,µm,R,30,2025-09-29
+OCT peripapillary RNFL/TRT,105.7,µm,R,180,2026-02-26
+OCT peripapillary RNFL/TRT,103.8,µm,R,365,2026-08-30
+Optic nerve sheath diameter (ultrasound),4.711,mm,L,180,2024-09-04
+Optic nerve sheath diameter (ultrasound),4.7,mm,L,60,2025-01-02
+Optic nerve sheath diameter (ultrasound),4.696,mm,FD,50,2025-04-22
+Optic nerve sheath diameter (ultrasound),5.6,mm,FD,150,2025-07-31
+Optic nerve sheath diameter (ultrasound),5.5,mm,R,0,2025-08-30
+Optic nerve sheath diameter (ultrasound),5.4,mm,R,3,2025-09-02
+Optic nerve sheath diameter (ultrasound),5.2,mm,R,30,2025-09-29
+Optic nerve sheath diameter (ultrasound),4.9,mm,R,180,2026-02-26
+Optic nerve sheath diameter (ultrasound),4.8,mm,R,365,2026-08-30
+P1NP,73.7,µg/L,L,180,2024-09-04
+P1NP,74,µg/L,L,60,2025-01-02
+P1NP,94.4,µg/L,FD,15,2025-03-18
+P1NP,105.8,µg/L,FD,30,2025-04-02
+P1NP,119.3,µg/L,FD,60,2025-05-02
+P1NP,125.6,µg/L,FD,120,2025-07-01
+P1NP,125.9,µg/L,FD,170,2025-08-20
+P1NP,126.7,µg/L,R,0,2025-08-30
+P1NP,124.4,µg/L,R,3,2025-09-02
+P1NP,118.0,µg/L,R,30,2025-09-29
+P1NP,92.5,µg/L,R,180,2026-02-26
+P1NP,80.4,µg/L,R,365,2026-08-30
+PHQ-9 depressive symptom screening score (0-27),2,points,L,180,2024-09-04
+PHQ-9 depressive symptom screening score (0-27),2,points,L,60,2025-01-02
+PHQ-9 depressive symptom screening score (0-27),3,points,FD,30,2025-04-02
+PHQ-9 depressive symptom screening score (0-27),5,points,FD,90,2025-06-01
+PHQ-9 depressive symptom screening score (0-27),6,points,FD,150,2025-07-31
+PHQ-9 depressive symptom screening score (0-27),2,points,R,30,2025-09-29
+PSQI sleep quality score (0-21),4,points,L,180,2024-09-04
+PSQI sleep quality score (0-21),4,points,L,60,2025-01-02
+PSQI sleep quality score (0-21),7,points,FD,30,2025-04-02
+PSQI sleep quality score (0-21),6,points,FD,90,2025-06-01
+PSQI sleep quality score (0-21),8,points,FD,150,2025-07-31
+PSQI sleep quality score (0-21),4,points,R,30,2025-09-29
+PTH,38.0,pg/mL,L,180,2024-09-04
+PTH,38,pg/mL,L,60,2025-01-02
+PTH,40.0,pg/mL,FD,15,2025-03-18
+PTH,41.7,pg/mL,FD,30,2025-04-02
+PTH,43.0,pg/mL,FD,60,2025-05-02
+PTH,42.9,pg/mL,FD,120,2025-07-01
+PTH,43.0,pg/mL,FD,170,2025-08-20
+PTH,43.1,pg/mL,R,0,2025-08-30
+PTH,42.7,pg/mL,R,3,2025-09-02
+PTH,40.6,pg/mL,R,30,2025-09-29
+PTH,38.2,pg/mL,R,180,2026-02-26
+PTH,37.8,pg/mL,R,365,2026-08-30
+Plasma volume,42.2,mL/kg,L,180,2024-09-04
+Plasma volume,42,mL/kg,L,60,2025-01-02
+Plasma volume,37.1,mL/kg,R,0,2025-08-30
+Plasma volume,38.5,mL/kg,R,3,2025-09-02
+Plasma volume,41.8,mL/kg,R,30,2025-09-29
+Plasma volume,41.7,mL/kg,R,180,2026-02-26
+Plasma volume,42.2,mL/kg,R,365,2026-08-30
+QSART sweat volume (forearm),1.602,µL/cm²,L,180,2024-09-04
+QSART sweat volume (forearm),1.6,µL/cm²,L,60,2025-01-02
+QSART sweat volume (forearm),1.595,µL/cm²,R,3,2025-09-02
+QSART sweat volume (forearm),1.6,µL/cm²,R,30,2025-09-29
+QST vibration threshold (foot),0.795,µm,L,180,2024-09-04
+QST vibration threshold (foot),0.8,µm,L,60,2025-01-02
+QST vibration threshold (foot),0.79,µm,R,3,2025-09-02
+QST vibration threshold (foot),0.807,µm,R,30,2025-09-29
+QTc (ECG),402.6,ms,L,180,2024-09-04
+QTc (ECG),402,ms,L,60,2025-01-02
+QTc (ECG),403.4,ms,R,0,2025-08-30
+QTc (ECG),398.4,ms,R,30,2025-09-29
+QTc (ECG),405.2,ms,R,365,2026-08-30
+Resting heart rate (ECG),55.7,/dk,L,180,2024-09-04
+Resting heart rate (ECG),56,/dk,L,60,2025-01-02
+Resting heart rate (ECG),55.9,/dk,FD,30,2025-04-02
+Resting heart rate (ECG),55.9,/dk,FD,90,2025-06-01
+Resting heart rate (ECG),56.1,/dk,FD,150,2025-07-31
+Resting heart rate (ECG),68,/dk,R,0,2025-08-30
+Resting heart rate (ECG),62,/dk,R,3,2025-09-02
+Resting heart rate (ECG),56.5,/dk,R,30,2025-09-29
+Resting heart rate (ECG),56.2,/dk,R,180,2026-02-26
+Resting heart rate (ECG),56.0,/dk,R,365,2026-08-30
+Saliva EBV DNA (qPCR),120,copies/mL,L,180,2024-09-04
+Saliva EBV DNA (qPCR),80,copies/mL,L,60,2025-01-02
+Saliva EBV DNA (qPCR),600,copies/mL,FD,15,2025-03-18
+Saliva EBV DNA (qPCR),1100,copies/mL,FD,30,2025-04-02
+Saliva EBV DNA (qPCR),1800,copies/mL,FD,60,2025-05-02
+Saliva EBV DNA (qPCR),2400,copies/mL,FD,120,2025-07-01
+Saliva EBV DNA (qPCR),1500,copies/mL,FD,170,2025-08-20
+Saliva EBV DNA (qPCR),900,copies/mL,R,0,2025-08-30
+Saliva EBV DNA (qPCR),400,copies/mL,R,3,2025-09-02
+Saliva EBV DNA (qPCR),150,copies/mL,R,30,2025-09-29
+Saliva VZV DNA (qPCR),0,copies/mL,L,180,2024-09-04
+Saliva VZV DNA (qPCR),0,copies/mL,L,60,2025-01-02
+Saliva VZV DNA (qPCR),0,copies/mL,FD,15,2025-03-18
+Saliva VZV DNA (qPCR),0,copies/mL,FD,30,2025-04-02
+Saliva VZV DNA (qPCR),0,copies/mL,FD,60,2025-05-02
+Saliva VZV DNA (qPCR),350,copies/mL,FD,120,2025-07-01
+Saliva VZV DNA (qPCR),900,copies/mL,FD,170,2025-08-20
+Saliva VZV DNA (qPCR),1200,copies/mL,R,0,2025-08-30
+Saliva VZV DNA (qPCR),250,copies/mL,R,3,2025-09-02
+Saliva VZV DNA (qPCR),0,copies/mL,R,30,2025-09-29
+Serum CTX,0.58,ng/mL,L,180,2024-09-04
+Serum CTX,0.58,ng/mL,L,60,2025-01-02
+Serum CTX,0.802,ng/mL,FD,15,2025-03-18
+Serum CTX,0.939,ng/mL,FD,30,2025-04-02
+Serum CTX,1.076,ng/mL,FD,60,2025-05-02
+Serum CTX,1.155,ng/mL,FD,120,2025-07-01
+Serum CTX,1.158,ng/mL,FD,170,2025-08-20
+Serum CTX,1.156,ng/mL,R,0,2025-08-30
+Serum CTX,1.123,ng/mL,R,3,2025-09-02
+Serum CTX,0.869,ng/mL,R,30,2025-09-29
+Serum CTX,0.587,ng/mL,R,180,2026-02-26
+Serum CTX,0.584,ng/mL,R,365,2026-08-30
+Serum calcium,2.319,mmol/L,L,180,2024-09-04
+Serum calcium,2.32,mmol/L,L,60,2025-01-02
+Serum calcium,2.324,mmol/L,FD,15,2025-03-18
+Serum calcium,2.321,mmol/L,FD,30,2025-04-02
+Serum calcium,2.293,mmol/L,FD,60,2025-05-02
+Serum calcium,2.298,mmol/L,FD,120,2025-07-01
+Serum calcium,2.27,mmol/L,FD,170,2025-08-20
+Serum calcium,2.299,mmol/L,R,0,2025-08-30
+Serum calcium,2.301,mmol/L,R,3,2025-09-02
+Serum calcium,2.336,mmol/L,R,30,2025-09-29
+Serum calcium,2.335,mmol/L,R,180,2026-02-26
+Serum calcium,2.31,mmol/L,R,365,2026-08-30
+"Sleep duration (actigraphy, per night)",6.6,hours,L,180,2024-09-04
+"Sleep duration (actigraphy, per night)",6.3,hours,L,60,2025-01-02
+"Sleep duration (actigraphy, per night)",5.6,hours,FD,15,2025-03-18
+"Sleep duration (actigraphy, per night)",6.0,hours,FD,30,2025-04-02
+"Sleep duration (actigraphy, per night)",6.2,hours,FD,60,2025-05-02
+"Sleep duration (actigraphy, per night)",6.1,hours,FD,90,2025-06-01
+"Sleep duration (actigraphy, per night)",5.8,hours,FD,120,2025-07-01
+"Sleep duration (actigraphy, per night)",6.0,hours,FD,150,2025-07-31
+"Sleep duration (actigraphy, per night)",5.7,hours,FD,170,2025-08-20
+"Sleep duration (actigraphy, per night)",7.4,hours,R,3,2025-09-02
+"Sleep duration (actigraphy, per night)",7.1,hours,R,30,2025-09-29
+Sleep medication use,0,nights/week,L,60,2025-01-02
+Sleep medication use,3,nights/week,FD,15,2025-03-18
+Sleep medication use,2,nights/week,FD,30,2025-04-02
+Sleep medication use,2,nights/week,FD,60,2025-05-02
+Sleep medication use,1,nights/week,FD,90,2025-06-01
+Sleep medication use,2,nights/week,FD,120,2025-07-01
+Sleep medication use,2,nights/week,FD,150,2025-07-31
+Sleep medication use,3,nights/week,FD,170,2025-08-20
+Sleep medication use,0,nights/week,R,30,2025-09-29
+Soleus H-reflex Hmax/Mmax,0.478,,L,180,2024-09-04
+Soleus H-reflex Hmax/Mmax,0.48,,L,60,2025-01-02
+Soleus H-reflex Hmax/Mmax,0.4,,R,3,2025-09-02
+Soleus H-reflex Hmax/Mmax,0.47,,R,30,2025-09-29
+Soleus H-reflex Hmax/Mmax,0.473,,R,180,2026-02-26
+Spherical equivalent refraction,0.0,D,L,180,2024-09-04
+Spherical equivalent refraction,0.0,D,L,60,2025-01-02
+Spherical equivalent refraction,0.75,D,R,0,2025-08-30
+Spherical equivalent refraction,0.0,D,R,3,2025-09-02
+Spherical equivalent refraction,0.0,D,R,30,2025-09-29
+Spherical equivalent refraction,0.5,D,R,180,2026-02-26
+Spherical equivalent refraction,0.5,D,R,365,2026-08-30
+Spine trabecular vBMD (QCT),169.0,mg/cm³,L,180,2024-09-04
+Spine trabecular vBMD (QCT),168,mg/cm³,L,60,2025-01-02
+Spine trabecular vBMD (QCT),167.5,mg/cm³,R,0,2025-08-30
+Spine trabecular vBMD (QCT),168.4,mg/cm³,R,180,2026-02-26
+Spine trabecular vBMD (QCT),167.8,mg/cm³,R,365,2026-08-30
+Systolic blood pressure,118.4,mmHg,L,180,2024-09-04
+Systolic blood pressure,118,mmHg,L,60,2025-01-02
+Systolic blood pressure,118.9,mmHg,FD,30,2025-04-02
+Systolic blood pressure,118.7,mmHg,FD,90,2025-06-01
+Systolic blood pressure,117.7,mmHg,FD,150,2025-07-31
+Systolic blood pressure,110,mmHg,R,0,2025-08-30
+Systolic blood pressure,117.8,mmHg,R,3,2025-09-02
+Systolic blood pressure,117.1,mmHg,R,30,2025-09-29
+Systolic blood pressure,118.3,mmHg,R,180,2026-02-26
+Systolic blood pressure,117.0,mmHg,R,365,2026-08-30
+T-cell activation (stimulated CD69+ cell fraction),42,%,L,180,2024-09-04
+T-cell activation (stimulated CD69+ cell fraction),41,%,L,60,2025-01-02
+T-cell activation (stimulated CD69+ cell fraction),35,%,FD,15,2025-03-18
+T-cell activation (stimulated CD69+ cell fraction),32,%,FD,30,2025-04-02
+T-cell activation (stimulated CD69+ cell fraction),30,%,FD,60,2025-05-02
+T-cell activation (stimulated CD69+ cell fraction),28,%,FD,120,2025-07-01
+T-cell activation (stimulated CD69+ cell fraction),29,%,FD,170,2025-08-20
+T-cell activation (stimulated CD69+ cell fraction),27,%,R,0,2025-08-30
+T-cell activation (stimulated CD69+ cell fraction),31,%,R,3,2025-09-02
+T-cell activation (stimulated CD69+ cell fraction),34,%,R,30,2025-09-29
+TMS resting motor threshold,44.0,%MSO,L,180,2024-09-04
+TMS resting motor threshold,44,%MSO,L,60,2025-01-02
+TMS resting motor threshold,43.2,%MSO,R,3,2025-09-02
+TMS resting motor threshold,43.4,%MSO,R,30,2025-09-29
+TSH,1.895,mIU/L,L,180,2024-09-04
+TSH,1.9,mIU/L,L,60,2025-01-02
+TSH,1.891,mIU/L,R,0,2025-08-30
+TSH,1.907,mIU/L,R,30,2025-09-29
+TSH,1.917,mIU/L,R,365,2026-08-30
+Tibial SSEP P37 latency,38.3,ms,L,180,2024-09-04
+Tibial SSEP P37 latency,38.5,ms,L,60,2025-01-02
+Tibial SSEP P37 latency,39.2,ms,R,3,2025-09-02
+Tibial SSEP P37 latency,38.5,ms,R,30,2025-09-29
+Tilt/standing heart-rate rise,18.1,/dk,L,180,2024-09-04
+Tilt/standing heart-rate rise,18,/dk,L,60,2025-01-02
+Tilt/standing heart-rate rise,41,/dk,R,0,2025-08-30
+Tilt/standing heart-rate rise,26,/dk,R,3,2025-09-02
+Tilt/standing heart-rate rise,19,/dk,R,30,2025-09-29
+Tilt/standing heart-rate rise,18.2,/dk,R,180,2026-02-26
+Tilt/standing heart-rate rise,18.1,/dk,R,365,2026-08-30
+Total hip aBMD (DXA),1.06,g/cm²,L,180,2024-09-04
+Total hip aBMD (DXA),1.06,g/cm²,L,60,2025-01-02
+Total hip aBMD (DXA),1.032,g/cm²,R,0,2025-08-30
+Total hip aBMD (DXA),1.04,g/cm²,R,180,2026-02-26
+Total hip aBMD (DXA),1.049,g/cm²,R,365,2026-08-30
+Total testosterone,542.0,ng/dL,L,180,2024-09-04
+Total testosterone,540,ng/dL,L,60,2025-01-02
+Total testosterone,543.4,ng/dL,R,0,2025-08-30
+Total testosterone,542.6,ng/dL,R,30,2025-09-29
+Total testosterone,537.0,ng/dL,R,365,2026-08-30
+Trabecular bone score (TBS),1.419,,L,180,2024-09-04
+Trabecular bone score (TBS),1.42,,L,60,2025-01-02
+Trabecular bone score (TBS),1.423,,R,0,2025-08-30
+Trabecular bone score (TBS),1.417,,R,180,2026-02-26
+Trabecular bone score (TBS),1.418,,R,365,2026-08-30
+Urine CMV DNA (qPCR),0,copies/mL,L,180,2024-09-04
+Urine CMV DNA (qPCR),0,copies/mL,L,60,2025-01-02
+Urine CMV DNA (qPCR),0,copies/mL,FD,15,2025-03-18
+Urine CMV DNA (qPCR),0,copies/mL,FD,30,2025-04-02
+Urine CMV DNA (qPCR),0,copies/mL,FD,60,2025-05-02
+Urine CMV DNA (qPCR),0,copies/mL,FD,120,2025-07-01
+Urine CMV DNA (qPCR),0,copies/mL,FD,170,2025-08-20
+Urine CMV DNA (qPCR),0,copies/mL,R,0,2025-08-30
+Urine CMV DNA (qPCR),0,copies/mL,R,3,2025-09-02
+Urine CMV DNA (qPCR),0,copies/mL,R,30,2025-09-29
+Urine CTx (24 h),1895.0,µg/day,L,180,2024-09-04
+Urine CTx (24 h),1890,µg/day,L,60,2025-01-02
+Urine CTx (24 h),2526.0,µg/day,FD,15,2025-03-18
+Urine CTx (24 h),2936.0,µg/day,FD,30,2025-04-02
+Urine CTx (24 h),3317.0,µg/day,FD,60,2025-05-02
+Urine CTx (24 h),3535.0,µg/day,FD,120,2025-07-01
+Urine CTx (24 h),3549.0,µg/day,FD,170,2025-08-20
+Urine CTx (24 h),3519.0,µg/day,R,0,2025-08-30
+Urine CTx (24 h),3457.0,µg/day,R,3,2025-09-02
+Urine CTx (24 h),2691.0,µg/day,R,30,2025-09-29
+Urine CTx (24 h),1913.0,µg/day,R,180,2026-02-26
+Urine CTx (24 h),1900.0,µg/day,R,365,2026-08-30
+Urine calcium (24 h),5.592,mmol/day,L,180,2024-09-04
+Urine calcium (24 h),5.6,mmol/day,L,60,2025-01-02
+Urine calcium (24 h),6.395,mmol/day,FD,15,2025-03-18
+Urine calcium (24 h),6.777,mmol/day,FD,30,2025-04-02
+Urine calcium (24 h),9.481,mmol/day,FD,60,2025-05-02
+Urine calcium (24 h),9.723,mmol/day,FD,120,2025-07-01
+Urine calcium (24 h),7.5,mmol/day,FD,170,2025-08-20
+Urine calcium (24 h),7.493,mmol/day,R,0,2025-08-30
+Urine calcium (24 h),7.415,mmol/day,R,3,2025-09-02
+Urine calcium (24 h),6.281,mmol/day,R,30,2025-09-29
+Urine calcium (24 h),5.577,mmol/day,R,180,2026-02-26
+Urine calcium (24 h),5.588,mmol/day,R,365,2026-08-30
+VEP P100 latency,101.5,ms,L,180,2024-09-04
+VEP P100 latency,101,ms,L,60,2025-01-02
+VEP P100 latency,102.5,ms,R,3,2025-09-02
+VEP P100 latency,99.8,ms,R,30,2025-09-29
+VO2peak,45.8,mL/kg/dk,L,180,2024-09-04
+VO2peak,46,mL/kg/dk,L,60,2025-01-02
+VO2peak,43.3,mL/kg/dk,FD,30,2025-04-02
+VO2peak,42.9,mL/kg/dk,FD,90,2025-06-01
+VO2peak,42.4,mL/kg/dk,FD,150,2025-07-31
+VO2peak,42.0,mL/kg/dk,R,0,2025-08-30
+VO2peak,43.0,mL/kg/dk,R,3,2025-09-02
+VO2peak,45.1,mL/kg/dk,R,30,2025-09-29
+VO2peak,46.0,mL/kg/dk,R,180,2026-02-26
+VO2peak,46.4,mL/kg/dk,R,365,2026-08-30
+White blood cell count (WBC),6.1,×10³/µL,L,180,2024-09-04
+White blood cell count (WBC),6.3,×10³/µL,L,60,2025-01-02
+White blood cell count (WBC),6.8,×10³/µL,FD,15,2025-03-18
+White blood cell count (WBC),7.0,×10³/µL,FD,30,2025-04-02
+White blood cell count (WBC),7.1,×10³/µL,FD,60,2025-05-02
+White blood cell count (WBC),7.2,×10³/µL,FD,120,2025-07-01
+White blood cell count (WBC),6.9,×10³/µL,FD,170,2025-08-20
+White blood cell count (WBC),8.9,×10³/µL,R,0,2025-08-30
+White blood cell count (WBC),7.4,×10³/µL,R,3,2025-09-02
+White blood cell count (WBC),6.3,×10³/µL,R,30,2025-09-29
+hs-CRP (immunoassay),0.602,mg/L,L,180,2024-09-04
+hs-CRP (immunoassay),0.6,mg/L,L,60,2025-01-02
+hs-CRP (immunoassay),0.6,mg/L,R,0,2025-08-30
+hs-CRP (immunoassay),0.602,mg/L,R,30,2025-09-29
+hs-CRP (immunoassay),0.604,mg/L,R,365,2026-08-30

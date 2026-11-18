@@ -1,0 +1,15 @@
+# İstikbal Göklerdedir - required packages  (Python 3.10 - 3.12 recommended)
+streamlit==1.45.1
+pandas>=2.1
+numpy>=1.26
+plotly>=5.20
+requests>=2.31
+pypdf>=4.0
+openpyxl>=3.1
+Pillow>=10.0
+jinja2>=3.1
+ddgs>=9.0
+
+# --- Optional (remove the leading # and install again) ---
+# faster-whisper>=1.0   # voice questions (local speech recognition)
+# pydicom>=2.4          # read DICOM (.dcm) tags
